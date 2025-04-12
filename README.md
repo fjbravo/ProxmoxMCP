@@ -70,7 +70,7 @@ Before starting, ensure you have:
    ```bash
    # Create config directory and copy template
    mkdir -p proxmox-config
-   cp config/config.example.json proxmox-config/config.json
+   cp proxmox-config/config.example.json proxmox-config/config.json
    ```
 
 4. Edit `proxmox-config/config.json`:
